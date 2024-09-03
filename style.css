@@ -100,3 +100,9 @@
     border-right: 2px solid red;
     padding-right: 20px;
 }
+.left-side-container{
+   margin-left: 10%;
+}
+.right-side-container{
+    margin-right: 10%;
+}
